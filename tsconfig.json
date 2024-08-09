@@ -20,7 +20,7 @@
     ],
     "paths": {
       "@/*": ["./*"]
-    }
+    },
   },
   "include": [
     "next-env.d.ts",
@@ -31,4 +31,5 @@
     "scripts/seed.js"
   ],
   "exclude": ["node_modules"]
+  
 }
